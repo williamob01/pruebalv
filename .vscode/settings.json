@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": -1,
+    "files.autoSave": "onFocusChange",
+    "php.executablePath": "C:/laragon/bin/php/php-7.2.19-Win32-VC15-x64/php.exe",
+    "php.validate.executablePath": "C:/laragon/bin/php/php-7.2.19-Win32-VC15-x64/php.exe",
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    },
+    "explorer.confirmDelete": false,
+    "blade.format.enable": true,
+    "http.proxyAuthorization": null,
+}
